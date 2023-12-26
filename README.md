@@ -1,1 +1,1 @@
-My plugin for instan user switching
+My plugin for instant user switching
